@@ -9,11 +9,11 @@ The purpose of this project was to take a data set on UFO sightings and make a s
 
 ##	Results
 With filters, users can search for key characteristics.
---	Enter Date
---	Enter a City
---	Enter a State
--- 	Enter a Country
--- 	Enter a Shape
+- Enter Date
+- Enter a City
+- Enter a State
+- Enter a Country
+- Enter a Shape
 
 ###	Example below on the filters working
 To use the filters, simply enter in one of the filter fields what you would like to search for and click enter. 
