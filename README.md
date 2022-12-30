@@ -23,7 +23,7 @@ To use the filters, simply enter in one of the filter fields what you would like
 
 
 ##	Summary: 
-The one drawback I see right off the bat is there is no range for the dates filter. Having a range could be crucial to find a pattern in reports between neighbouring towns.   
+The one drawback I see right off the bat is there is no range for the dates filter. Having a range could be crucial to find a pattern in reports between neighbouring cities.   
 
 The First recommendation - Having a filter that could count how many ufo sightings per city 
 
